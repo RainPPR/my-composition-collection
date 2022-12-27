@@ -4,6 +4,8 @@
 点击[【此处】](./睿翼文集.md)查看。
 
 ## PDF文件
-Markdown生成：Typora(v1.4.8)+Newsprint主题。
+Markdown生成：Typora(v1.4.8)+Newsprint主题
+
 PDF封面设计：[PPR](gitee.com/RainPPR)
+
 图片来源：[觅元素](www.51yuansu.com)
